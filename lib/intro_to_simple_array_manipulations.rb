@@ -4,7 +4,7 @@ def using_concat(array1, array2)
   puts array3
 end
 
-def uniq(array)
+def using_uniq(array)
   array.uniq()
   puts array
 end
